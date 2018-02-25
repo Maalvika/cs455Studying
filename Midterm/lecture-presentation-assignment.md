@@ -5,12 +5,12 @@ Lecture Presentation Schedule
 | 01 | Communications and Networking | Jarret |
 | 02 | Communications and Networking | Jarret |
 | 03 | Communications and Networking | Diego and Jarret |
-| 04 | Communications and Networking | Diego |
-| 05 | Threads | TBA |
-| 06 | Threads | TBA |
-| 07 | Threads | TBA |
-| 08 | Thread Safety | TBA |
-| 09 | Thread Safety | Jarret |
+| 04 | Communications and Networking | Diego and Devin |
+| 05 | Threads | Jarret |
+| 06 | Threads | Jordan |
+| 07 | Threads | Jordan |
+| 08 | Thread Safety | Jordan and Devin |
+| 09 | Thread Safety | Jarret and Jordan |
 | 10 | Thread Safety| Jarret |
 | 11 | Thread Safety and MapReduce | Devin |
 | 12 | MapReduce | Devin and Diego |
