@@ -1,3 +1,3 @@
 ## Images
 - Format: L(lecture number)-(description)
-- Example: L3-Encapsulation.png
+- Example: L3-encapsulation.png
