@@ -8,7 +8,7 @@ Lecture Presentation Schedule
 | 04 | Communications and Networking | Diego and Devin |
 | 05 | Threads | Jarret |
 | 06 | Threads | Jordan |
-| 07 | Threads | Jordan Diego |
+| 07 | Threads | Jordan and Diego |
 | 08 | Thread Safety | Jordan and Devin |
 | 09 | Thread Safety | Jarret and Jordan |
 | 10 | Thread Safety| Jarret |
