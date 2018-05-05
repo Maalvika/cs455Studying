@@ -3,11 +3,11 @@ Lecture Presentation Schedule
 | # | Lecture Topic | Presentor |
 | :---: |:-------------| :-----|
 | 13 | MapReduce and Hadoop | Jordan |
-| 14 | Hadoop and HDFS | TBA |
+| 14 | Hadoop and HDFS | Jarret |
 | 15 | HDFS | TBA |
 | 16 | HDFS | TBA |
 | 17 | HDFS | TBA |
-| 18 | Spark | TBA |
+| 18 | Spark | Jarret |
 | 19 | Spark | Jordan |
 | 20 | Spark | TBA |
 | 21 | Spark Streaming | TBA |
@@ -17,4 +17,4 @@ Lecture Presentation Schedule
 | 25 | Election Algorithms | TBA |
 | 26 | Architectures and Topologies | TBA |
 | 27 | File Systems | TBA |
-| 28 | NFS and AFS | TBA |
+| 28 | NFS and AFS | Jarret |
