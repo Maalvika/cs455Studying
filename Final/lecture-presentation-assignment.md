@@ -2,16 +2,19 @@ Lecture Presentation Schedule
 
 | # | Lecture Topic | Presentor |
 | :---: |:-------------| :-----|
-| 01 | Communications and Networking | Jarret |
-| 02 | Communications and Networking | Jarret |
-| 03 | Communications and Networking | Diego |
-| 04 | Communications and Networking | Diego and Devin |
-| 05 | Networking and Threads | Jarret |
-| 06 | Threads | Jordan |
-| 07 | Threads | Jordan and Diego |
-| 08 | Thread Safety | Jordan and Devin |
-| 09 | Thread Safety | Jarret and Jordan |
-| 10 | Thread Safety| Jarret |
-| 11 | Thread Safety and MapReduce | Devin |
-| 12 | MapReduce | Devin and Diego |
-| 13 | MapReduce and Hadoop | TBA |
+| 13 | MapReduce and Hadoop | Jordan |
+| 14 | Hadoop and HDFS | TBA |
+| 15 | HDFS | TBA |
+| 16 | HDFS | TBA |
+| 17 | HDFS | TBA |
+| 18 | Spark | TBA |
+| 19 | Spark | Jordan |
+| 20 | Spark | TBA |
+| 21 | Spark Streaming | TBA |
+| 22 | Distributed Coordination and Mutual Exclusion | Jordan |
+| 23 | Distributed Mutual Exclusion | TBA |
+| 24 | Election Algorithms | TBA |
+| 25 | Election Algorithms | TBA |
+| 26 | Architectures and Topologies | TBA |
+| 27 | File Systems | TBA |
+| 28 | NFS and AFS | TBA |
